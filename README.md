@@ -1,4 +1,4 @@
-<img src="./" />
+<img src="./BG.png" />
 
 I love developing small games in my spare time. ✈️
 
@@ -7,6 +7,8 @@ I keep challenging myself with various Ludum Dare events and HackerRank/Leetcode
 
 I've studied many technologies such as Java, C, C#, C++, Python, Dart, Eiffel, ...
 I mainly work with Python 3 for code challenges, instead, I use the C# language for Game Development. 🤓
+
+Check me out [here](https://www.davidepaolillo.it/), also if you are intrested in what I do you can subscribe to my [YouTube](https://www.youtube.com/@cgtech6414) channel! 😄
 
 <div align=center>
 <h2>My skills</h2>
